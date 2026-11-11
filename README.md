@@ -31,7 +31,7 @@ data/khmer_dictionary.csv
 
 The CSV should have a `word` column. A `pos` column is optional. If your file uses different column names or a different location, update `WORD_COLUMN`, `POS_COLUMN`, and `DICTIONARY_CSV` in the notebook's settings cell.
 
-Dictionary data is excluded from this Git repository. Only add or share dictionary data if you have permission to do so.
+Dictionary data is excluded from this Git repository. 
 
 ## Run the notebook
 
