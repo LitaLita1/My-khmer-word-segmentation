@@ -1,0 +1,4 @@
+data/
+KhmerWordSegmentation-reference/
+__pycache__/
+.ipynb_checkpoints/
